@@ -4,7 +4,7 @@
 
 ### Este es mi primer paso hacia el mundo del desarrollo de software
 
-*Estos ejercicios se aplican los siguientes conceptos:*
+*En estos ejercicios se aplican los siguientes conceptos:*
 
  - Variables, tipo de datos y operadores.
  - Estructuras condicionales o de decisión (Si-Entonces).
